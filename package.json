@@ -1,5 +1,6 @@
 {
   "name": "gym-website",
+  "author": "Nikita",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
